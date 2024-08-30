@@ -1,0 +1,22 @@
+.hallow{
+    border: 1px solid black
+}
+
+.hello{
+    background-color: #eaecf0;
+        border: 1px solid black
+}
+
+.hollow{
+    color: royalblue;
+        background-color: #eaecf0;
+        border: 1px solid black
+}
+
+.bold{
+border: 1px solid black
+}
+table{
+    text-align: center;
+        border: 2px solid black
+}
